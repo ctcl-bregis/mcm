@@ -1,0 +1,75 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="R6-k0MJQzRM9K0LxVX12">
+    <mxGraphModel dx="1682" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-2" target="3-jfqTvra2ddEDHy3P-N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-2" target="3-jfqTvra2ddEDHy3P-N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-2" value="STM32H743VIT6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-3" value="CFAF240320J0-028TN&lt;div&gt;or equivalent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-5" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-6" target="3-jfqTvra2ddEDHy3P-N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-6" value="ES9020Q" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-8" value="3.5mm&lt;div&gt;Headphone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-11" target="3-jfqTvra2ddEDHy3P-N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-11" value="TPA6133A2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-16" value="I2S/TDM/PCM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-18" value="BQ25896" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-19" target="3-jfqTvra2ddEDHy3P-N-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-19" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-20" value="MediaCow Micro S - CTCL 2024&lt;div&gt;Purpose: Logic block diagram&lt;/div&gt;&lt;div&gt;Created: December 27, 2024&lt;/div&gt;&lt;div&gt;Modified: December 27, 2024&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-22" target="3-jfqTvra2ddEDHy3P-N-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-22" value="FUSB302B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-27" target="3-jfqTvra2ddEDHy3P-N-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="3-jfqTvra2ddEDHy3P-N-27" target="3-jfqTvra2ddEDHy3P-N-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="780" />
+              <mxPoint x="420" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3-jfqTvra2ddEDHy3P-N-27" value="USB&lt;div&gt;Type-C&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
