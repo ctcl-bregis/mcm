@@ -1,4 +1,4 @@
-// MediaCow Micro - CTCL 2021-2024
+// MediaCow Micro - CTCL 2021-2025
 // Purpose: Parametric case generation for MediaCow Micro devices
 // Created: January 1, 2025
 // Modified: January 1, 2025
